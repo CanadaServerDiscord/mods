@@ -1,0 +1,134 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "glass",
+			"facing": "north"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "napkin",
+			"facing": "north"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "all",
+			"facing": "north"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "plate",
+			"facing": "south"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "glass",
+			"facing": "south"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "napkin",
+			"facing": "south"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "all",
+			"facing": "south"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "plate",
+			"facing": "west"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "glass",
+			"facing": "west"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "napkin",
+			"facing": "west"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "all",
+			"facing": "west"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "plate",
+			"facing": "east"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "glass",
+			"facing": "east"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "napkin",
+			"facing": "east"
+		},
+		"Name": "candlelight:table_set"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plate": "all",
+			"facing": "east"
+		},
+		"Name": "candlelight:table_set"
+	}
+]

@@ -1,0 +1,653 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "0",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "1",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "2",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "3",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "4",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "5",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "6",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "7",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "8",
+			"facing": "north",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "0",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "1",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "2",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "3",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "4",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "5",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "6",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "7",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "8",
+			"facing": "south",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "0",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "1",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "2",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "3",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "4",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "5",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "6",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "7",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "8",
+			"facing": "west",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "0",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "1",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "2",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "3",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "4",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "5",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "6",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "7",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "8",
+			"facing": "east",
+			"ceilling": "true"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "1",
+			"facing": "north",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "2",
+			"facing": "north",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "3",
+			"facing": "north",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "4",
+			"facing": "north",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "5",
+			"facing": "north",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "6",
+			"facing": "north",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "7",
+			"facing": "north",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "8",
+			"facing": "north",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "0",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "1",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "2",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "3",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "4",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "5",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "6",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "7",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "8",
+			"facing": "south",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "0",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "1",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "2",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "3",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "4",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "5",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "6",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "7",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "8",
+			"facing": "west",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "0",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "1",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "2",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "3",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "4",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "5",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "6",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "7",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"flowers": "8",
+			"facing": "east",
+			"ceilling": "false"
+		},
+		"Name": "beautify:mangrove_trellis"
+	}
+]

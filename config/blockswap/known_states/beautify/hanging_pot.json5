@@ -1,0 +1,2084 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "0",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "0",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "1",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "1",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "2",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "2",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "3",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "3",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "4",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "4",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "5",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "5",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "6",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "6",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "7",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "7",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "8",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "8",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "9",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "9",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "10",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "10",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "11",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "11",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "12",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "12",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "13",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "13",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "14",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "14",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "15",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "15",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "16",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "16",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "17",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "17",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "18",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "18",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "19",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "19",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "20",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "20",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "21",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "21",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "22",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "22",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "23",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "23",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "24",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "24",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "25",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "25",
+			"hanging": "true",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "0",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "0",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "1",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "1",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "2",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "2",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "3",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "3",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "4",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "4",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "5",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "5",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "6",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "6",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "7",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "7",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "8",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "8",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "9",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "9",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "10",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "10",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "11",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "11",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "12",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "12",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "13",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "13",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "14",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "14",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "15",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "15",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "16",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "16",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "17",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "17",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "18",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "18",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "19",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "19",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "20",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "20",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "21",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "21",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "22",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "22",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "23",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "23",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "24",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "24",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "25",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "25",
+			"hanging": "false",
+			"grown": "true"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "0",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "0",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "1",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "1",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "2",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "2",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "3",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "3",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "4",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "4",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "5",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "5",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "6",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "6",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "7",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "7",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "8",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "8",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "9",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "9",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "10",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "10",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "11",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "11",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "12",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "12",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "13",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "13",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "14",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "14",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "15",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "15",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "16",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "16",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "17",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "17",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "18",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "18",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "19",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "19",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "20",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "20",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "21",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "21",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "22",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "22",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "23",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "23",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "24",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "24",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "25",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "25",
+			"hanging": "true",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "0",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "1",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "1",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "2",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "2",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "3",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "3",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "4",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "4",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "5",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "5",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "6",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "6",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "7",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "7",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "8",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "8",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "9",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "9",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "10",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "10",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "11",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "11",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "12",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "12",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "13",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "13",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "14",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "14",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "15",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "15",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "16",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "16",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "17",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "17",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "18",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "18",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "19",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "19",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "20",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "20",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "21",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "21",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "22",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "22",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "23",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "23",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "24",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "24",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"potflower": "25",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"potflower": "25",
+			"hanging": "false",
+			"grown": "false"
+		},
+		"Name": "beautify:hanging_pot"
+	}
+]

@@ -1,0 +1,119 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "orange"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "magenta"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "light_blue"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "yellow"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "lime"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "pink"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "gray"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "light_gray"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "cyan"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "purple"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "blue"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "brown"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "green"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "red"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"dye_color": "black"
+		},
+		"Name": "fantasyfurniture:royal/wool"
+	}
+]

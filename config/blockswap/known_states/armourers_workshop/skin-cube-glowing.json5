@@ -1,0 +1,437 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "down",
+			"has_marker": "true",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "up",
+			"has_marker": "true",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "north",
+			"has_marker": "true",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "south",
+			"has_marker": "true",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "west",
+			"has_marker": "true",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "east",
+			"has_marker": "true",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "down",
+			"has_marker": "false",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "up",
+			"has_marker": "false",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "south",
+			"has_marker": "false",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "west",
+			"has_marker": "false",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "east",
+			"has_marker": "false",
+			"facing": "north"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "down",
+			"has_marker": "true",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "up",
+			"has_marker": "true",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "north",
+			"has_marker": "true",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "south",
+			"has_marker": "true",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "west",
+			"has_marker": "true",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "east",
+			"has_marker": "true",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "down",
+			"has_marker": "false",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "up",
+			"has_marker": "false",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "north",
+			"has_marker": "false",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "south",
+			"has_marker": "false",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "west",
+			"has_marker": "false",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "east",
+			"has_marker": "false",
+			"facing": "south"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "down",
+			"has_marker": "true",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "up",
+			"has_marker": "true",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "north",
+			"has_marker": "true",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "south",
+			"has_marker": "true",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "west",
+			"has_marker": "true",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "east",
+			"has_marker": "true",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "down",
+			"has_marker": "false",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "up",
+			"has_marker": "false",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "north",
+			"has_marker": "false",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "south",
+			"has_marker": "false",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "west",
+			"has_marker": "false",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "east",
+			"has_marker": "false",
+			"facing": "west"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "down",
+			"has_marker": "true",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "up",
+			"has_marker": "true",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "north",
+			"has_marker": "true",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "south",
+			"has_marker": "true",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "west",
+			"has_marker": "true",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "east",
+			"has_marker": "true",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "down",
+			"has_marker": "false",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "up",
+			"has_marker": "false",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "north",
+			"has_marker": "false",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "south",
+			"has_marker": "false",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "west",
+			"has_marker": "false",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"marker": "east",
+			"has_marker": "false",
+			"facing": "east"
+		},
+		"Name": "armourers_workshop:skin-cube-glowing"
+	}
+]

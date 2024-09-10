@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"chalices": "0"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"chalices": "0"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"chalices": "0"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"chalices": "0"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"chalices": "0"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"chalices": "0"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"chalices": "0"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"chalices": "1"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"chalices": "1"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"chalices": "1"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"chalices": "1"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"chalices": "1"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"chalices": "1"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"chalices": "1"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"chalices": "1"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"chalices": "2"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"chalices": "2"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"chalices": "2"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"chalices": "2"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"chalices": "2"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"chalices": "2"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"chalices": "2"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"chalices": "2"
+		},
+		"Name": "fantasyfurniture:decorations/bone_wither_chalices"
+	}
+]

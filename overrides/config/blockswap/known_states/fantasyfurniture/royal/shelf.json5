@@ -1,0 +1,5124 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "white",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "white",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "white",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "white",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "white",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "white",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "white",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "orange",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "orange",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "orange",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "orange",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "orange",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "orange",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "orange",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "orange",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "magenta",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "magenta",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "magenta",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "magenta",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "magenta",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "magenta",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "magenta",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "magenta",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "light_blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "light_blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "light_blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "light_blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "light_blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "light_blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "light_blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "light_blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "yellow",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "yellow",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "yellow",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "yellow",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "yellow",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "yellow",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "yellow",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "yellow",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "lime",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "lime",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "lime",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "lime",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "lime",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "lime",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "lime",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "lime",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "pink",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "pink",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "pink",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "pink",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "pink",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "pink",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "pink",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "pink",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "light_gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "light_gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "light_gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "light_gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "light_gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "light_gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "light_gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "light_gray",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "cyan",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "cyan",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "cyan",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "cyan",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "cyan",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "cyan",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "cyan",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "cyan",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "purple",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "purple",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "purple",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "purple",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "purple",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "purple",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "purple",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "purple",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "blue",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "brown",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "brown",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "brown",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "brown",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "brown",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "brown",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "brown",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "brown",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "green",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "green",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "green",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "green",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "green",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "green",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "green",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "green",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "red",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "red",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "red",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "red",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "red",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "red",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "red",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "red",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "black",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "black",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "black",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "black",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "black",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "black",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "black",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "black",
+			"connection": "left"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "white",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "white",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "white",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "white",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "white",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "white",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "white",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "white",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "orange",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "orange",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "orange",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "orange",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "orange",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "orange",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "orange",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "orange",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "magenta",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "magenta",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "magenta",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "magenta",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "magenta",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "magenta",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "magenta",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "magenta",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "light_blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "light_blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "light_blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "light_blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "light_blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "light_blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "light_blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "light_blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "yellow",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "yellow",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "yellow",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "yellow",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "yellow",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "yellow",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "yellow",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "yellow",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "lime",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "lime",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "lime",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "lime",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "lime",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "lime",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "lime",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "lime",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "pink",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "pink",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "pink",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "pink",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "pink",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "pink",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "pink",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "pink",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "light_gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "light_gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "light_gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "light_gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "light_gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "light_gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "light_gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "light_gray",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "cyan",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "cyan",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "cyan",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "cyan",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "cyan",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "cyan",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "cyan",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "cyan",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "purple",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "purple",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "purple",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "purple",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "purple",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "purple",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "purple",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "purple",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "blue",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "brown",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "brown",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "brown",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "brown",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "brown",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "brown",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "brown",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "brown",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "green",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "green",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "green",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "green",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "green",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "green",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "green",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "green",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "red",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "red",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "red",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "red",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "red",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "red",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "red",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "red",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "black",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "black",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "black",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "black",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "black",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "black",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "black",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "black",
+			"connection": "right"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "white",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "white",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "white",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "white",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "white",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "white",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "white",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "white",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "orange",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "orange",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "orange",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "orange",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "orange",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "orange",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "orange",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "orange",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "magenta",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "magenta",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "magenta",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "magenta",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "magenta",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "magenta",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "magenta",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "magenta",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "light_blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "light_blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "light_blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "light_blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "light_blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "light_blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "light_blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "light_blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "yellow",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "yellow",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "yellow",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "yellow",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "yellow",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "yellow",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "yellow",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "yellow",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "lime",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "lime",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "lime",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "lime",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "lime",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "lime",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "lime",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "lime",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "pink",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "pink",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "pink",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "pink",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "pink",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "pink",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "pink",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "pink",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "light_gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "light_gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "light_gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "light_gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "light_gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "light_gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "light_gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "light_gray",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "cyan",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "cyan",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "cyan",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "cyan",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "cyan",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "cyan",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "cyan",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "cyan",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "purple",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "purple",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "purple",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "purple",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "purple",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "purple",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "purple",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "purple",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "blue",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "brown",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "brown",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "brown",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "brown",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "brown",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "brown",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "brown",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "brown",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "green",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "green",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "green",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "green",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "green",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "green",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "green",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "green",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "red",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "red",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "red",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "red",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "red",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "red",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "red",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "red",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "black",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "black",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "black",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "black",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "black",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "black",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "black",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "black",
+			"connection": "center"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "white",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "white",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "white",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "white",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "white",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "white",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "white",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "white",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "orange",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "orange",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "orange",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "orange",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "orange",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "orange",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "orange",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "orange",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "magenta",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "magenta",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "magenta",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "magenta",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "magenta",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "magenta",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "magenta",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "magenta",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "light_blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "light_blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "light_blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "light_blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "light_blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "light_blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "light_blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "light_blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "yellow",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "yellow",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "yellow",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "yellow",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "yellow",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "yellow",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "yellow",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "yellow",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "lime",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "lime",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "lime",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "lime",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "lime",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "lime",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "lime",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "lime",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "pink",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "pink",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "pink",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "pink",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "pink",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "pink",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "pink",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "pink",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "light_gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "light_gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "light_gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "light_gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "light_gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "light_gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "light_gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "light_gray",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "cyan",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "cyan",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "cyan",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "cyan",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "cyan",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "cyan",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "cyan",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "cyan",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "purple",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "purple",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "purple",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "purple",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "purple",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "purple",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "purple",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "purple",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "blue",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "brown",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "brown",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "brown",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "brown",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "brown",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "brown",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "brown",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "brown",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "green",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "green",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "green",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "green",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "green",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "green",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "green",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "green",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "red",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "red",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "red",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "red",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "red",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "red",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "red",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "red",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"dye_color": "black",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"dye_color": "black",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"dye_color": "black",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"dye_color": "black",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"dye_color": "black",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"dye_color": "black",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"dye_color": "black",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"dye_color": "black",
+			"connection": "single"
+		},
+		"Name": "fantasyfurniture:royal/shelf"
+	}
+]

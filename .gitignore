@@ -1,14 +1,25 @@
 # Ignore everything
 *
 
-# Allow these directories and their contents to be included
+# Include everything inside these directories
 !config/
-!mods/
-!journeymap/
-!overrides/
-!resourcepacks/
-!shaderpacks/
+!config/**
 
-# Allow these specific files
+!mods/
+!mods/**
+
+!journeymap/
+!journeymap/**
+
+!overrides/
+!overrides/**
+
+!resourcepacks/
+!resourcepacks/**
+
+!shaderpacks/
+!shaderpacks/**
+
+# Include specific files
 !manifest.json
 !minecraftinstance.json
