@@ -1,4 +1,9 @@
 *
 !config/*
 !mods/*
-!test/*
+!journeymap/*
+!overrides/*
+!resourcepacks/*
+!shaderpacks/*
+!manifest.json
+!minecraftinstance.json
