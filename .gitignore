@@ -1,20 +1,14 @@
 # Ignore everything
 *
 
-# Exceptions - these files and folders will not be ignored
+# Allow these directories and their contents to be included
 !config/
 !mods/
 !journeymap/
 !overrides/
 !resourcepacks/
 !shaderpacks/
+
+# Allow these specific files
 !manifest.json
 !minecraftinstance.json
-
-# Optional: Ignore files within those directories, but keep the directories
-config/*
-mods/*
-journeymap/*
-overrides/*
-resourcepacks/*
-shaderpacks/*
